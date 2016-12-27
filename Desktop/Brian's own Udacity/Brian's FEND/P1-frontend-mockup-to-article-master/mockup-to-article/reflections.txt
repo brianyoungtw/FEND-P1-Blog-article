@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1. Learned about some tags I haven't used before such as the <sup> tag.
+2. HTML is quite easy. Reading the documentation on MDN is quite easy too.
+3. So far so good. JS is where it'll start to get harder.
+4. Remember the growth mindset - just like weightlifting, you grow muscle (learn things) when it hurts (run into problems)！So don't be afraid of getting stuck, it's actually the perfect chance to improve and grow!
